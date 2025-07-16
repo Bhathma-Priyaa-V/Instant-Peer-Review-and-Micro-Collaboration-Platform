@@ -100,7 +100,7 @@ MongoDB is used to store all essential data such as users, projects, comments, l
 
  5. **Visit the app on:**
   ```bash
-  http://127.0.0.1:5000/
+  `http://127.0.0.1:5000/`
 
 ---
 
