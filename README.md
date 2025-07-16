@@ -105,8 +105,8 @@ MongoDB is used to store all essential data such as users, projects, comments, l
 
 ## ❗ Notes
 
-- Gemini API Key is used in /summarize_feedback route (backend).
-- For public GitHub usage, do not include the API key. Keep it private.
+- **Gemini API Key** is used in `/summarize_feedback` route (backend).
+- For public GitHub usage, **I do not include the API key**. 
 
 ---
 
